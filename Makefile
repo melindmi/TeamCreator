@@ -44,7 +44,7 @@ coverage:
 	@echo " ================="
 	@echo " = Code coverage ="
 	@echo " ================="
-	@mv src/*.gcno src/*.gcda . 2>/dev/null || true
+	@cp src/*.gcno src/*.gcda . 2>/dev/null || true
 	@gcov src/*.cpp 2>&1 | grep -A 1 'File.*cpp' | sed '/File/N;s/\n/ - /' | grep File
 	@mkdir -p coverage
 	@mv *.gcov coverage/
