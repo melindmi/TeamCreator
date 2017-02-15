@@ -1,0 +1,41 @@
+{
+  "athletes": [
+    {
+      "squad_id": 1,
+      "name": "Meagan Gill",
+      "position": "full-back",
+      "is_injured": false
+    },
+    {
+      "squad_id": 0,
+      "name": "Hillary Wiggins",
+      "position": "full-back",
+      "is_injured": false,
+      "id": 3
+    },
+    {
+      "squad_id": 9,
+      "name": "Bright Hicks",
+      "position": "centre",
+      "is_injured": true,
+      "id": 3
+    }
+  ],
+  "squads": [
+    {
+      "club": "Isotronic",
+      "name": "Squad 0",
+      "id": 0
+    },
+    {
+      "club": "Kengen",
+      "name": "Squad 1",
+      "id": 1
+    },
+    {
+      "club": "Mediot",
+      "name": "Squad 9",
+      "id": 9
+    }
+  ]
+}

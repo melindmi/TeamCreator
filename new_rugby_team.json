@@ -1,0 +1,94 @@
+{
+    "athletes": [
+        {
+            "name": "Hillary Wiggins",
+            "position": "full-back",
+            "squad_id": 2,
+            "squad_name": "Squad 2"
+        },
+        {
+            "name": "Willa Winters",
+            "position": "out-half",
+            "squad_id": 8,
+            "squad_name": "Squad 8"
+        },
+        {
+            "name": "Gallagher Grimes",
+            "position": "flanker",
+            "squad_id": 0,
+            "squad_name": "Squad 0"
+        },
+        {
+            "name": "Britney Ballard",
+            "position": "hooker",
+            "squad_id": 9,
+            "squad_name": "Squad 9"
+        },
+        {
+            "name": "Edwards Robinson",
+            "position": "number-eight",
+            "squad_id": 2,
+            "squad_name": "Squad 2"
+        },
+        {
+            "name": "Courtney Wells",
+            "position": "lock",
+            "squad_id": 3,
+            "squad_name": "Squad 3"
+        },
+        {
+            "name": "Diana Wiley",
+            "position": "winger",
+            "squad_id": 3,
+            "squad_name": "Squad 3"
+        },
+        {
+            "name": "Sweet Jordan",
+            "position": "centre",
+            "squad_id": 1,
+            "squad_name": "Squad 1"
+        },
+        {
+            "name": "Jacobs Sherman",
+            "position": "winger",
+            "squad_id": 2,
+            "squad_name": "Squad 2"
+        },
+        {
+            "name": "Joy Stein",
+            "position": "scrum-half",
+            "squad_id": 1,
+            "squad_name": "Squad 1"
+        },
+        {
+            "name": "Lawanda Maddox",
+            "position": "centre",
+            "squad_id": 3,
+            "squad_name": "Squad 3"
+        },
+        {
+            "name": "Calderon Byrd",
+            "position": "lock",
+            "squad_id": 3,
+            "squad_name": "Squad 3"
+        },
+        {
+            "name": "Mercedes Whitehead",
+            "position": "prop",
+            "squad_id": 3,
+            "squad_name": "Squad 3"
+        },
+        {
+            "name": "Ratliff Avery",
+            "position": "prop",
+            "squad_id": 3,
+            "squad_name": "Squad 3"
+        },
+        {
+            "name": "Kaufman Ferrell",
+            "position": "flanker",
+            "squad_id": 3,
+            "squad_name": "Squad 3"
+        }
+    ]
+}
